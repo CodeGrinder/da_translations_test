@@ -18,4 +18,6 @@
   "bookings.addToCalendarFailure": "Could not add booking to \"%{name}\" calendar.",
   "bookings.addToCalendarNotFound": "Could not find any editable calendars on this device.",
   "bookings.addToCalendarSuccess": "Booking added to \"%{name}\" calendar."
+  "bookings.addToCalendarNotFound2": "Could not find any editable calendars on this device test.",
+  "bookings.addToCalendarSuccess2": "Booking added to \"%{name}\" calendar test."
 }
